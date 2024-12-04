@@ -1,0 +1,17 @@
+body {
+    font-family: calibri;
+}
+
+h2 {
+    color: brown
+}
+
+td,
+tr {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+}
